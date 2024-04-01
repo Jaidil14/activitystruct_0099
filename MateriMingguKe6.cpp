@@ -45,4 +45,5 @@ int main() {
         cout << "\nUmur : " << mhs[i].umur;
         cout << endl;
     }
+    return 0;
 }
